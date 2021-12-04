@@ -1,0 +1,12 @@
+git config (ultilizado para fazer as configuraçoes do git no terminal)
+git status (caso precisamos de um status mais completos do que estamos fazendo)
+git add.   (para adicionar mudancas que fizemos fora do repositorio e queremos add no repositorio )
+git commit (depois de add a pasta ou a mudanças precisamos commita pra entra no nosso repositorio)
+git init   (Para começar um projeto que ainda não seja um repositório (ou repo), o Git Init costuma ser o primeiro comando que você vai usar, pois vai precisar de um subdiretório .git na raiz do seu projeto.)
+git clone  (O Git clone é um comando para baixar o código-fonte existente de um repositório remoto (como o Github, por exemplo).
+git branch (Com branches (ou ramificações), vários desenvolvedores podem trabalhar paralelamente no mesmo projeto. Assim, cada um pode codar a sua parte sem se atrapalharem.)
+git checkout (Este é um dos comandos Git mais usados. Para trabalhar em uma branch, primeiro você precisa mudar para ela. Não ir para a branch que você acabou de criar e na qual quer trabalhar é um erro bastante comum no começo.)
+git push   (Após confirmar as alterações, a próxima coisa que você deseja fazer é enviar as alterações para o servidor remoto.)
+git pull   (O comando git pull é usado para obter atualizações do repositório remoto. O comando de pull depende do referencial de onde ele foi feito, ou seja, um git pull feito da sua máquina vai puxar informações do repositório original para ela.)
+git revert (Existem várias maneiras de desfazer nossas alterações local ou remotamente (dependendo da necessidade), mas devemos usar esses comandos com cuidado para evitar problemas.)
+git marge  (Quando você conclui o desenvolvimento em sua branch e tudo funciona bem, sem conflitos, a etapa final é mesclar as branches, isso é feito com o comando git merge.)
